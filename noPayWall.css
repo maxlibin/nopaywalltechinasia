@@ -1,0 +1,11 @@
+.paywall-content.paywall-content.paywall-content {
+  max-height: none !important;
+}
+
+.paywall-content.paywall-content.paywall-content::after {
+  content: unset !important;
+}
+
+.paywall-hard.paywall-hard.paywall-hard {
+  display: none;
+}
