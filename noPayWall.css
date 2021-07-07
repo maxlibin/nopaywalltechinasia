@@ -1,6 +1,8 @@
 .paywall-content.paywall-content.paywall-content {
   max-height: none !important;
-  height: auto !important;:
+  height: auto !important;
+  pointer-events: all !important;
+  user-select: all !important;
 }
 
 .paywall-content.paywall-content.paywall-content::after {
